@@ -4,5 +4,8 @@ int main()
     int a = 2;
     int b = 3;
     int c = a + b;
+
+    std::cout << "Hello World" << std::endl;
     std::cout << "The total of a and b is " << c << std::endl;
+    return 0;
 }

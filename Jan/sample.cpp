@@ -1,10 +1,11 @@
 /*
 Author: George Sucuzhanay
 Course: CSCI-135
-Instructor: their name
+Instructor: Professor Tong Yi
 Assignment: E1.7
 
-Write a program that prints three items,such as the names of your three bestfriends 
+Write a program that prints three items, such as the 
+names of your three bestfriends 
 or favorite movies, on three separate lines.
 
 */

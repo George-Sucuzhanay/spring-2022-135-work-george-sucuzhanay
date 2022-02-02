@@ -23,7 +23,7 @@ int main()
     cin >> friend1;
     cout << "Who is your 2nd best friend: ";
     cin >> friend2;
-    cout << "Who is your 3rd best friend: s";
+    cout << "Who is your 3rd best friend: ";
     cin >> friend3;
     cout << "1st Friend: " << friend1<< "\n";
     cout << "2nd Friend: " << friend2<< "\n";

@@ -15,6 +15,8 @@ Suppose we have only 3-bit to store an int
 110 => 6 base 10
 111 => 7 base 10
 
+testing new linux laptop on cpp file
+
 */
 #include <iostream>
 int main()

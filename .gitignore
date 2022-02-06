@@ -1,2 +1,6 @@
 **/daedalus/**/*a.out
-**/lecture/*a.out
+**/lecture/**/*a.out
+**lecture/exercises/*a.out
+**lecture/project/*a.out
+**lecture/classwork/*a.out
+

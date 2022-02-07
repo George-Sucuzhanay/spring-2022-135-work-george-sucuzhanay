@@ -1,4 +1,6 @@
 **/daedalus/**/*a.out
+**/daedalus/**/*.o
+
 **/lecture/**/*a.out
 **lecture/exercises/*a.out
 **lecture/project/*a.out

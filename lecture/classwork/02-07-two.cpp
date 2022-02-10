@@ -30,19 +30,20 @@ Purpose: Extract Name in String
 int main()
 {
     // Enter name from console interactively
-    std::cout << "Enter full name (firstname lastname): ";
     std::string name;
-    std::cin >> name;
+    std::cout << "Enter full name (firstname lastname): ";
+    std::getline(std::cin, name);
+
     // process name to extract last and first name
-    size_t index = name.find(" ");
+    int index = name.find(" ");
     // index is the location of the first occurance of " " in name
-    if(index != std::string::npos){
-        // no space in name
+    if(index == std::string::npos){
         std::cout << "no space in input name, cannot proceed\n";
-        return -1; 
+        return -1;
     }
     std::string firstName = name.substr(0,index);
-    std::string lastName = name.substr(index, +1);
-    std::cout << lastName;
+    std::string lastName = name.substr(index + 1);
+
+    std::cout << lastName << "," << firstName << std::endl;
     return 0;
 }

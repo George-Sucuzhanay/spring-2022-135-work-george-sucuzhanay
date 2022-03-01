@@ -1,0 +1,15 @@
+piglatinify(word):
+
+what to look for when testing:
+1) words start with a constonant
+2) non word input
+3) start w/ vowel
+4) capitalization
+5) empty string
+
+
+
+
+
+
+plsentence(sentence)

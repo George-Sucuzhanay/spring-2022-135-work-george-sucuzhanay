@@ -12,10 +12,6 @@ bool isPrime(int n)
         {
             return false;
         }
-        else if()
-        {
-
-        }
 
     }
 }

@@ -1,0 +1,28 @@
+Testing
+
+
+All test cases should ALL pass
+ex: 
+1! = 1  good case
+
+1! != 2 awful case
+
+
+Refactoring
+
+The act of factoring out for purposes of efficiency
+at times developer seek to find the most efficient
+algo for a procedure
+
+Efficiency:
+
+Creating functions that is used within other functions are readily seen
+
+Looking for similarities in previous functions so that you can call them
+later on
+
+
+Don't be a hero
+
+Find help on when you have exhausted your resources
+

@@ -3,7 +3,7 @@
 Author: George Sucuzhanay
 Course: CSCI-135
 Instructor: Professor Tong Yi
-Assignment: Project 1C - calc.cpp
+Assignment: Project 1C - calc2.cpp
 
 Goal: create a simple calculator
 using std cin
@@ -26,7 +26,7 @@ int main()
     {
         if(sign == ';')
         {
-            std::cout  << sum << std::endl;
+            std::cout << sum << std::endl;
             std::cin >> input;
             sum = input;
         }

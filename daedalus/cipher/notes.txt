@@ -1,0 +1,5 @@
+using the cipher lab 
+- use the frequency of the english words in an vector
+- then compare it with the frequency of the words of what's given in another vector?
+
+

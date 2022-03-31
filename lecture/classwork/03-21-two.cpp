@@ -46,8 +46,11 @@ int main()
     std::cout << a << std::endl;
 
     std::cout << "\n__________________\n" << std::endl;
+
     int arr[] = {1,2,3,4};
     int size = sizeof(arr) / sizeof(arr[0]);
     std::cout << size << std::endl;
+
+    
     return 0;
 }

@@ -1,0 +1,68 @@
+Code Reviews:
+- looking for edge cases
+- readability
+    - comments that are concise
+    - indentation/ whitenames
+    - proper function/ variable names
+    - function breakdown / modularity
+    - function size
+    - file size
+    - tests
+
+
+Code make become legacy code which then makes them 
+crucially important to properly code
+
+Well written code needs very few comments
+
+Comments:
+- should not restate the code entirely
+- function name are like the english language
+- should instead example the code at a high level instead of restating the code
+Function Names:
+
+function prime => awful
+function isPrime => better
+
+function is_the _parameter_a_prime => too long :(
+
+Make them short and concise
+
+Loops:
+- Using i variable is standard but depends on the programming language and their conventions
+
+Spacing Btw Function Outputs:
+
+
+
+Having a comment block before any func:
+*/
+
+explain the funcs to be shown below
+/*
+Comment Blocks for each function:
+
+
+std::cout << "<-------------- bool is_prime(int)----------->" << std::endl;
+std::cout << "Tests to see if a # is prime using ....." << std::endl;
+std::cout << "Parameters: number, a positive integer" << std::endl;
+std::cout << "Returns: True if number is prime, false otherwise" << std::endl;
+
+White Space:
+- Consistency in whitespace when using curly braces {}
+
+int main()
+{
+    bool example(int a ){
+
+    }
+}
+
+Function size:
+- functions cannot be greater than 25 lines
+- behavior from terminal size restriction
+
+Consistency in Style Guide by the environment you are in
+- college
+- work
+

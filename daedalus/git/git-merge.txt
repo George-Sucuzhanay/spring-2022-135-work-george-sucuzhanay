@@ -1,0 +1,16 @@
+GIT MERGE CONFLICTS:
+
+Head refers branch you are in
+>>>>>>>> HEAD
+ddsfrg
+refersfg
+sdfdf
+==========
+defwfe
+>>>>>>> newbranch
+
+there are some GUI to merge them apporaitely
+
+
+git commit -a -m "merged sucessfully"
+
